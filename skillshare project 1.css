@@ -1,0 +1,13 @@
+head{background-color: white;}
+body{
+	margin: 50px;
+	background-color: palegreen;
+	text-align: center;}
+ol{text-align: left;}
+ul{text-align: left;}
+h2{text-align: left;}
+img{ width: 500px;}
+footer{background-color: white;}
+p{font-size: 20px;}
+h2{color: forestgreen;}
+h1{color: darkgreen;}
