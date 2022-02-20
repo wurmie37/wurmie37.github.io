@@ -1,8 +1,10 @@
 head{background-color: white;}
 body{
-	
 	background-color: palegreen;
 	text-align: center;}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet"> 
 ol{text-align: left;}
 ul{text-align: left;}
 h2{text-align: left;}
